@@ -11,7 +11,7 @@
     "howler": "^2.2.1",
     "jquery": "^3.5.1",
     "moment": "^2.29.1",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.3",
     "react-compound-timer": "^1.2.0",
